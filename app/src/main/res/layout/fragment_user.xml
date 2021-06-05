@@ -74,6 +74,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="60dp"
+                android:layout_marginLeft="10dp"
                 android:src="@drawable/ic_person_blue_30dp" />
 
             <TextView
@@ -89,6 +90,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="100dp"
+                android:layout_marginLeft="10dp"
                 android:src="@drawable/ic_book_blue_30dp" />
 
             <TextView
@@ -104,6 +106,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="140dp"
+                android:layout_marginLeft="10dp"
                 android:src="@drawable/ic_collections_bookmark_blue_30dp" />
 
             <TextView

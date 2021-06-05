@@ -29,6 +29,7 @@ class HomeFragment : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         val root = inflater.inflate(R.layout.fragment_home,container,false)
+
         root.btn_to_report.setOnClickListener{
             activity?.startActivity(Intent(activity, ReportActivity::class.java))
         }

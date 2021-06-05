@@ -10,6 +10,8 @@ class HasilActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_hasil)
 
+
+
         btn_hasil.setOnClickListener{
             this.startActivity(Intent(this, MainActivity::class.java))
             finish()

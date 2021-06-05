@@ -1,0 +1,76 @@
+<!--<editor-fold desc="Description">-->
+<resources>
+    <string name="app_name">CapstoneBangkit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user">User</string>
+    <string name="report">Report</string>
+    <string name="home">Home</string>
+    <string name="remaining">1/20</string>
+    <string name="report_number">1.</string>
+    <string name="main_question_1">Kapan kejadian ini terakhir kali terjadi?</string>
+
+    <string name="main_question_2">Apakah terdapat Luka Bakar?</string>
+    <string name="main_question_3">Apakah terdapat Luka Sayatan?</string>
+    <string name="main_question_4">Apakah terdapat luka lain seperti :</string>
+    <string name="main_question_5">Pilihlah yang sesuai dengan hal yang mengganggu anda pasca</string>
+    <string name="main_question_6">Apakah pelaku telah tertangkap :</string>
+    <string name="main_question_7">Berapa kali korban mengalami kejadian ini :</string>
+
+    /*answer1*/
+    <string name="answer1_1">Lebih dari 6 minggu yang lalu</string>
+    <string name="answer1_2">6 minggu yang lalu</string>
+    <string name="answer1_3">Sebulan yang lalu</string>
+    <string name="answer1_4">Dua minggu yang lalu</string>
+    <string name="answer1_5">Seminggu yang lalu</string>
+    /*answer2*/
+    <string name="answer2_1">Tidak ada luka bakar</string>
+    <string name="answer2_2">Luka bakar tingkat 1</string>
+    <string name="answer2_3">Luka bakar tingkat 2</string>
+    <string name="answer2_4">Luka bakar tingkat 3</string>
+    /*answer3*/
+    <string name="answer3_1">Tidak ada luka sayatan</string>
+    <string name="answer3_2">Luka sayatan dangkal (Kurang dari 1 cm)</string>
+    <string name="answer3_3">Luka sayatan dalam (Lebih dari 1 cm) </string>
+    /*answer4*/
+    <string name="answer4_1">Tidak ada luka</string>
+    <string name="answer4_2">Luka gores</string>
+    <string name="answer4_3">Luka memar</string>
+    /*answer5*/
+    <string name="answer5_1">Perilaku masyarakat sekitar yang kurang mendukung korban</string>
+    <string name="answer5_2">Halusinasi akibat kejadia</string>
+    <string name="answer5_3">Pikiran ketakutan kejadian akan berulang</string>
+    /*answer6*/
+    <string name="answer6_1">Sudah tertangkap dan dibawa ke pihak berwajib</string>
+    <string name="answer6_2">Sudah tertangkap akan tetapi pelaku enggan mengakui</string>
+    <string name="answer6_3">Belum tertangkap dan sudah tau identitasnya</string>
+    <string name="answer6_4">Belum tertangkap dan belum pasti identitasnya</string>
+    /*answer7*/
+    <string name="answer7_1">1 hingga 2 kali</string>
+    <string name="answer7_2">3 hinnga 5 kali</string>
+    <string name="answer7_3">6 hingga 8 kali</string>
+    <string name="answer7_4">Lebih dari 9 kali</string>
+    <string name="laporkan_sekarang">Laporkan Sekarang</string>
+    <string-array name="image">
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+    </string-array>
+    <string-array name="judul">
+        <item>KEMEN PPPA TURUN DAMPINGI KASUS PENGANIAYAAN ANAK DI LEBAK</item>
+        <item>KOMISI VIII DPR RI DORONG OPTIMALISASI PROGRAM KERJA PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK</item>
+        <item>MENGKAJI KEDUDUKAN QANUN, KEMEN PPPA BERKOMITMEN MEMBERI PERLINDUNGAN PADA KORBAN PERKOSAAN DI ACEH</item>
+        <item>KEMEN PPPA TURUN DAMPINGI KASUS PENGANIAYAAN ANAK DI LEBAK</item>
+        <item>KOMISI VIII DPR RI DORONG OPTIMALISASI PROGRAM KERJA PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK</item>
+        <item>MENGKAJI KEDUDUKAN QANUN, KEMEN PPPA BERKOMITMEN MEMBERI PERLINDUNGAN PADA KORBAN PERKOSAAN DI ACEH</item>
+        <item>KEMEN PPPA TURUN DAMPINGI KASUS PENGANIAYAAN ANAK DI LEBAK</item>
+        <item>KOMISI VIII DPR RI DORONG OPTIMALISASI PROGRAM KERJA PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK</item>
+        <item>MENGKAJI KEDUDUKAN QANUN, KEMEN PPPA BERKOMITMEN MEMBERI PERLINDUNGAN PADA KORBAN PERKOSAAN DI ACEH</item>
+    </string-array>
+</resources><!--</editor-fold>-->

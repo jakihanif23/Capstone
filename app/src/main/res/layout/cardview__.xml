@@ -3,6 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_margin="12dp"
     android:layout_width="300dp"
+    android:background="@drawable/default_option_border_10"
     android:layout_height="300dp">
     <LinearLayout
         android:gravity="center"
